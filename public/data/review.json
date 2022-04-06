@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Danial Crag",
+    "review": "Very good product.",
+    "ratings": 4
+  },
+  {
+    "id": "2",
+    "name": "Will Smith",
+    "review": "Fantastic product.",
+    "ratings": 3
+  },
+  {
+    "id": "3",
+    "name": "Denzel Washington",
+    "review": "Very good product.",
+    "ratings": 5
+  },
+  {
+    "id": "4",
+    "name": "Cris rock",
+    "review": "Very nice.",
+    "ratings": 4.3
+  },
+  {
+    "id": "5",
+    "name": "Tom Hanks",
+    "review": "Very nice product.",
+    "ratings": 3
+  },
+  {
+    "id": "6",
+    "name": "Thokir Ahmed",
+    "review": "Exceptional.",
+    "ratings": 5
+  }
+]
